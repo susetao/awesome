@@ -148,7 +148,7 @@
 - [网络](#networking)
 - [去中心化系统](#decentralized-systems)
 - [健康和社会科学](#health-and-social-science)
-- [事件](#events)
+- [事件](#event)
 - [测试](#testing)
 - [杂项](#miscellaneous)
 - [相关](#related)
@@ -231,7 +231,7 @@
 
 
 
-## 编程语言
+## programming-languages
 
 - [JavaScript](https://github.com/sorrycc/awesome-javascript#readme)
 	- [Promises](https://github.com/wbinnssmith/awesome-promises#readme)
@@ -488,7 +488,7 @@
 ## Big Data
 
 - [Big Data](https://github.com/0xnr/awesome-bigdata#readme)
-- [Public Datasets](https://github.com/awesomedata/awesome-public-datasets#readme)
+- [Public Dataset](https://github.com/awesomedata/awesome-public-datasets#readme)
 - [Hadoop](https://github.com/youngwookim/awesome-hadoop#readme) - Framework for distributed storage and processing of very large data sets.
 - [Data Engineering](https://github.com/igorbarinov/awesome-data-engineering#readme)
 - [Streaming](https://github.com/manuzhang/awesome-streaming#readme)
@@ -497,7 +497,7 @@
 - [Splunk](https://github.com/sduff/awesome-splunk#readme) - Platform for searching, monitoring, and analyzing structured and unstructured machine-generated big data in real-time.
 - [Network Analysis](https://github.com/briatte/awesome-network-analysis#readme)
 
-## 理论
+## theory
 
 - [我们爱的论文](https://github.com/papers-we-love/papers-we-love#readme)
 - [演讲](https://github.com/JanVanRyswyck/awesome-talks#readme)
@@ -533,7 +533,7 @@
 - [Visual Studio Code](https://github.com/viatsko/awesome-vscode#readme) - Cross-platform open-source text editor.
 
 
-## 游戏开发
+## gaming
 
 - [游戏开发](https://github.com/ellisonleao/magictools#readme)
 - [游戏演讲](https://github.com/hzoo/awesome-gametalks#readme)
@@ -589,7 +589,7 @@
 - [Terminals Are Sexy](https://github.com/k4m4/terminals-are-sexy#readme)
 - [GitHub Actions](https://github.com/sdras/awesome-actions#readme) - Create tasks to automate your workflow and share them with others on GitHub.
 
-## 娱乐
+## Entertainment
 
 - [科幻](https://github.com/sindresorhus/awesome-scifi#readme) - 科幻小说。
 - [奇幻](https://github.com/RichardLitt/awesome-fantasy#readme)
